@@ -1,0 +1,11 @@
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\bin\Debug\DnD Fight Assist.exe.config
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\bin\Debug\DnD Fight Assist.exe
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\bin\Debug\DnD Fight Assist.pdb
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD Fight Assist.csprojAssemblyReference.cache
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD_Fight_Assist.Form1.resources
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD_Fight_Assist.Properties.Resources.resources
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD Fight Assist.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD Fight Assist.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD Fight Assist.exe
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD Fight Assist.pdb
+C:\Users\Matej\source\repos\DnD Fight Assist\DnD Fight Assist\obj\Debug\DnD_Fight_Assist.Form2.resources

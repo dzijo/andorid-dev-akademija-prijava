@@ -1,0 +1,27 @@
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\bin\Debug\Pkmn.exe.config
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.Form1.resources
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.Properties.Resources.resources
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.csproj.GenerateResource.Cache
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\bin\Debug\Pkmn.exe
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\bin\Debug\Pkmn.pdb
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.exe
+c:\users\matej džijan\documents\visual studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.pdb
+C:\Users\Matej Džijan\Documents\Visual Studio 2015\Projects\Pkmn\Pkmn\bin\Debug\Pkmn.exe.manifest
+C:\Users\Matej Džijan\Documents\Visual Studio 2015\Projects\Pkmn\Pkmn\bin\Debug\Pkmn.application
+C:\Users\Matej Džijan\Documents\Visual Studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.exe.manifest
+C:\Users\Matej Džijan\Documents\Visual Studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.application
+C:\Users\Matej Džijan\Documents\Visual Studio 2015\Projects\Pkmn\Pkmn\obj\Debug\Pkmn.csprojResolveAssemblyReference.cache
+D:\Pkmn\Pkmn\bin\Debug\Pkmn.exe.config
+D:\Pkmn\Pkmn\bin\Debug\Pkmn.exe.manifest
+D:\Pkmn\Pkmn\bin\Debug\Pkmn.application
+D:\Pkmn\Pkmn\bin\Debug\Pkmn.exe
+D:\Pkmn\Pkmn\bin\Debug\Pkmn.pdb
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.csprojAssemblyReference.cache
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.Form1.resources
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.Properties.Resources.resources
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.csproj.GenerateResource.cache
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.csproj.CoreCompileInputs.cache
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.exe.manifest
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.application
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.exe
+D:\Pkmn\Pkmn\obj\Debug\Pkmn.pdb
