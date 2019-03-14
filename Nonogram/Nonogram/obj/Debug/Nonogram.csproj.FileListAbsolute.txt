@@ -1,0 +1,15 @@
+C:\Users\Matej\source\repos\Nonogram\Nonogram\bin\Debug\Nonogram.exe.config
+C:\Users\Matej\source\repos\Nonogram\Nonogram\bin\Debug\Nonogram.exe
+C:\Users\Matej\source\repos\Nonogram\Nonogram\bin\Debug\Nonogram.pdb
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.csprojAssemblyReference.cache
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.Form1.resources
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.Properties.Resources.resources
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.csproj.GenerateResource.cache
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.exe
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.pdb
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.Form2.resources
+C:\Users\Matej\source\repos\Nonogram\Nonogram\bin\Debug\Nonogram.exe.manifest
+C:\Users\Matej\source\repos\Nonogram\Nonogram\bin\Debug\Nonogram.application
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.exe.manifest
+C:\Users\Matej\source\repos\Nonogram\Nonogram\obj\Debug\Nonogram.application
